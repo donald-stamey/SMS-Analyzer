@@ -6,3 +6,6 @@ It can be automatically uploaded to Google Drive for easy download to your compu
 Instructions with either appear in dialog boxes or at the top of file explorers.
 
 Note that this app will not consider any MMS messages (any media or text messages attached to media, nor any group chats).
+
+Built with Apache POI:
+https://poi.apache.org/
