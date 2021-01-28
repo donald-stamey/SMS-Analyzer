@@ -9,5 +9,6 @@ Note that this app will not consider any MMS messages (any media or text message
 
 Built with Apache POI:
 https://poi.apache.org/
+
 SMS Backup & Restore:
 https://play.google.com/store/apps/details?id=com.riteshsahu.SMSBackupRestore
